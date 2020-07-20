@@ -6,7 +6,7 @@ android {
     buildToolsVersion "29.0.3"
 
     defaultConfig {
-        applicationId "by.kirich1409.viewbindingdelegate.profile"
+        applicationId "co.sampingan.android.profile"
         minSdkVersion 16
         targetSdkVersion 29
         versionCode 1

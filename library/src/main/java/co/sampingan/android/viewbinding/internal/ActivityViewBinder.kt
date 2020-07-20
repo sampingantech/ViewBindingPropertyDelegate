@@ -1,4 +1,4 @@
-package by.kirich1409.viewbindingdelegate.internal
+package co.sampingan.android.viewbinding.internal
 
 import android.app.Activity
 import android.view.View

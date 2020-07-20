@@ -1,13 +1,13 @@
 @file:Suppress("unused")
 
-package by.kirich1409.viewbindingdelegate.sample
+package co.sampingan.android.sample
 
 import android.app.Dialog
 import android.os.Bundle
 import androidx.appcompat.app.AlertDialog
 import androidx.fragment.app.DialogFragment
-import by.kirich1409.viewbindingdelegate.dialogViewBinding
-import by.kirich1409.viewbindingdelegate.sample.databinding.ProfileBinding
+import co.sampingan.android.viewbinding.dialogViewBinding
+import co.sampingan.android.sample.databinding.ProfileBinding
 
 class ProfileDialogFragment1 : DialogFragment() {
 
