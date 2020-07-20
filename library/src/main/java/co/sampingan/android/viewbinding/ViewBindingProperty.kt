@@ -1,4 +1,4 @@
-package by.kirich1409.viewbindingdelegate
+package co.sampingan.android.viewbinding
 
 import android.os.Handler
 import android.os.Looper
@@ -11,11 +11,11 @@ import androidx.fragment.app.Fragment
 import androidx.lifecycle.DefaultLifecycleObserver
 import androidx.lifecycle.LifecycleOwner
 import androidx.viewbinding.ViewBinding
-import by.kirich1409.viewbindingdelegate.internal.ActivityViewBinder
-import by.kirich1409.viewbindingdelegate.internal.DialogFragmentViewBinder
-import by.kirich1409.viewbindingdelegate.internal.FragmentViewBinder
-import by.kirich1409.viewbindingdelegate.internal.checkIsMainThread
-import by.kirich1409.viewbindingdelegate.internal.requireViewByIdCompat
+import co.sampingan.android.viewbinding.internal.ActivityViewBinder
+import co.sampingan.android.viewbinding.internal.DialogFragmentViewBinder
+import co.sampingan.android.viewbinding.internal.FragmentViewBinder
+import co.sampingan.android.viewbinding.internal.checkIsMainThread
+import co.sampingan.android.viewbinding.internal.requireViewByIdCompat
 import kotlin.properties.ReadOnlyProperty
 import kotlin.reflect.KProperty
 

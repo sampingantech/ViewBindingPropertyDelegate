@@ -1,10 +1,10 @@
 @file:Suppress("unused")
 
-package by.kirich1409.viewbindingdelegate.sample
+package co.sampingan.android.sample
 
 import androidx.appcompat.app.AppCompatActivity
-import by.kirich1409.viewbindingdelegate.sample.databinding.ProfileBinding
-import by.kirich1409.viewbindingdelegate.viewBinding
+import co.sampingan.android.sample.databinding.ProfileBinding
+import co.sampingan.android.viewbinding.viewBinding
 
 class ProfileActivity : AppCompatActivity(R.layout.profile) {
 
