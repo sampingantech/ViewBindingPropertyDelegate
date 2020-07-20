@@ -1,3 +1,5 @@
+![Publish to Bintray](https://github.com/sampingantech/ViewBindingPropertyDelegate/workflows/Publish%20to%20Bintray/badge.svg?branch=master&event=push)
+
 # ViewBindingPropertyDelegate
 
 Make work with [Android View Binding](https://developer.android.com/topic/libraries/view-binding) simpler
