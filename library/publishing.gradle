@@ -49,7 +49,7 @@ afterEvaluate {
         publications = ["releaseAar"]
 
         pkg {
-            repo = 'maven'
+            repo = 'android'
             name = 'viewbinding-propertydelegate'
             desc = "Make work with Android View Binding simpler"
             userOrg = System.env.BINTRAY_USER_ORGANIZATION ?: ""
