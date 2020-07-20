@@ -1,4 +1,4 @@
-![Publish to Bintray](https://github.com/sampingantech/ViewBindingPropertyDelegate/workflows/Publish%20to%20Bintray/badge.svg?branch=master&event=push)
+![Publish to Bintray](https://github.com/sampingantech/ViewBindingPropertyDelegate/workflows/Publish%20to%20Bintray/badge.svg?branch=master&event=push) [ ![Download](https://api.bintray.com/packages/sampingan/android/viewbinding-propertydelegate/images/download.svg) ](https://bintray.com/sampingan/android/viewbinding-propertydelegate/_latestVersion)
 
 # ViewBindingPropertyDelegate
 
