@@ -14,8 +14,7 @@ allprojects {
 }
 
 dependencies {
-    implementation 'co.sampingan.android:viewbinding-propertydelegate:1.0.0-beta1'
-}
+    implementation 'co.sampingan.android:viewbinding-propertydelegate:1.0.0'}
 ```
 
 ## Samples
